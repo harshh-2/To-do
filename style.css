@@ -1,3 +1,35 @@
 body{
-    color:black;
+    background-color:black;
+}
+.typee input{
+border:2px solid white;
+border-radius: 23px;
+width:700px;
+max-width: 900px;
+height:35px;
+background-color: beige;
+text-align: center;
+}
+.typee{
+width:100%;
+height:auto;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin:25px;
+}
+.storage{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    justify-content: center;
+}
+.box{
+    display: grid;
+    min-width: 900px;
+    max-width: 100%;
+    min-height:900px;
+    max-height: 100%;
+    background-color: bisque;
 }
