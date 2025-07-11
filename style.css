@@ -30,11 +30,12 @@ margin:25px;
     display: flex;
     flex-wrap: wrap;
     gap: 2px;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     min-height:350px;
     max-height: 100%;
     overflow: auto;
-    justify-content: flex-start;
     background-color:cornflowerblue;
     border: 5px solid white;
 }
