@@ -6,7 +6,7 @@ A responsive and dynamic To-Do List application built with **HTML, CSS, and Java
 
 ## 📸 Preview
 
-[Live](#https://harshh-2.github.io/To-do/)
+[Live](https://harshh-2.github.io/To-do/)
 
 ---
 
